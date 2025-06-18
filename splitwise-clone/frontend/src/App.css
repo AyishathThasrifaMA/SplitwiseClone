@@ -1,0 +1,12 @@
+/* Optional custom styles */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.title {
+  font-size: 1.875rem;
+  font-weight: 600;
+  color: #1a202c;
+}
